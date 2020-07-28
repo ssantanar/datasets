@@ -1,10 +1,6 @@
 # MAC
 .DS_Store
 
-# Images
-*.png
-*.jpg
-
 # Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
