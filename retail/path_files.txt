@@ -1,0 +1,6 @@
+{"products":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/products.csv",
+"orders":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/orders.csv",
+"order_items":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/order_items.csv",
+"departments":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/departments.csv",
+"customers":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/customers.csv,
+"categories":"https://raw.githubusercontent.com/ssantanar/datasets/master/retail/categories.csv}
