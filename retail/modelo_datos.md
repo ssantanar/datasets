@@ -20,7 +20,7 @@ correcto funcionamiento de una tienda de retails. Las tablas son las siguientes:
     * **product_id**: representa la llave primaria (PK), cuyo tipo de dato es un valor entero.
     * **product_category_id**: representa la llave foránea (FK) a la tabla `categories`.
     * **product_name**: nombre del producto, es de tipo de dato Varchar(45).
-    * **product price**: precio del producto, es de tipo de dato Float.
+    * **product_price**: precio del producto, es de tipo de dato Float.
 
 - `customers`: representa los clientes registrados en la empresa de retail
 Compuesto por los siguientes atributos:
