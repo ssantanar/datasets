@@ -1,6 +1,6 @@
 # Modelo Relacional - Retail
 
-**Este modelo y conjunto de datos es utilizado por Carla Vairetti (Universida de los Andes) en sus talleres.**
+**Este modelo y conjunto de datos es utilizado por Carla Vairetti (Universidad de los Andes) en sus talleres.**
 
 El siguiente es un modelo de datos que permite mantener la información para el
 correcto funcionamiento de una tienda de retails. Las tablas son las siguientes:
