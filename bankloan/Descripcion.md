@@ -15,8 +15,8 @@ Muestra de la base de datos de una institución financiera tradicional de client
 - `NATIONALITY`: nacionalidad del cliente.
 - `YRS_WORK`: número de años trabajando en la empresa que declara el cliente al momento de solicitar el crédito.
 - `YRS_ADDRESS`: número de años viviendo en la misma morada al momento de solicitar el crédito.
-- `INCOME`: ingreso de dólares americanos (este valor es estimado a partir de un estadístico de posición central sobre el flujo en cuenta bancaria de los últimos 3 meses antes de solicitar el crédito)
-- `DEBT_INCOME`: ratio de deudas sobre ingreso.
-- `CREDIT_DEBT`: porcentaje de las deudas totales adeudadas en la institución financiera.
-- `OTHER_DEBT`: porcentaje de las deudas totales en instituciones financieras no convencionales.
+- `INCOME`: ingreso en miles de dólares americanos (valor estimado).
+- `DEBT_INCOME`: deuda en consumo (en miles).
+- `CREDIT_DEBT`: deuda en tarjetas de credito (en miles).
+- `OTHER_DEBT`: otras deudas (en miles).
 - `DEFAULT`: etiqueta si cliente ha caído en default en el periodo de observación o no (`N`: no ha caído en *default*, `S`: si ha caído en *default*).
