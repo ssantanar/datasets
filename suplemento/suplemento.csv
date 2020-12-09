@@ -52,7 +52,7 @@ Hrs_semana;Ingreso;Grasa_corporal;IMC;Nacionalidad;Edad;Compra
 4;720000;0;29.6;Chile;34;0
 4;660000;0;31.9;Chile;29;0
 6;612000;0;30.8;Chile;36;1
-6;510000;0;31.2;Chile;42;0
+6;510000;0;31.2;Chile;;0
 5;858000;0;45;Chile;47;0
 5;780000;0;39.1;Chile;37;1
 6;522000;0;23.2;Chile;32;0
@@ -93,7 +93,7 @@ Hrs_semana;Ingreso;Grasa_corporal;IMC;Nacionalidad;Edad;Compra
 1;1080000;0;43.3;Chile;41;1
 12;636000;0;23.6;Chile;44;0
 0;702000;0;33.8;Chile;44;0
-5;690000;0;31.2;Chile;44;1
+5;;0;31.2;Chile;44;1
 7;1068000;44;39.9;Chile;41;1
 5;732000;0;34.7;Chile;33;0
 8;570000;0;36.8;Chile;57;0
@@ -136,7 +136,7 @@ Hrs_semana;Ingreso;Grasa_corporal;IMC;Nacionalidad;Edad;Compra
 3;480000;0;0;Chile;22;0
 6;996000;0;26.6;Chile;66;0
 5;660000;0;26;Chile;30;0
-10;450000;0;33.3;Chile;38;0
+10;450000;0;33.3;Chile;;0
 8;720000;0;25;Chile;64;0
 9;546000;0;24.2;Chile;58;0
 2;546000;0;27.3;Chile;22;0
@@ -172,7 +172,7 @@ Hrs_semana;Ingreso;Grasa_corporal;IMC;Nacionalidad;Edad;Compra
 3;636000;0;25.8;Chile;27;0
 6;702000;0;28.7;Chile;30;0
 0;714000;0;32.4;Chile;24;1
-6;1098000;0;40.8;Chile;45;0
+6;;0;40.8;Chile;45;0
 2;648000;0;30.8;Chile;21;0
 0;750000;0;24.7;Chile;21;0
 0;792000;0;32.4;Chile;21;0
@@ -240,8 +240,8 @@ Hrs_semana;Ingreso;Grasa_corporal;IMC;Nacionalidad;Edad;Compra
 4;696000;12;22.1;Chile;37;0
 4;702000;12;29.7;Chile;30;1
 1;600000;12;25.3;Chile;28;0
-1;600000;12;19.5;Chile;28;0
-1;570000;13;19.6;Chile;25;0
+1;;12;19.5;Chile;28;0
+1;570000;13;;Chile;25;0
 3;678000;13;22.4;Chile;22;0
 2;576000;13;21.1;Chile;26;0
 3;642000;13;22.9;Chile;23;1
