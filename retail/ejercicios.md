@@ -13,7 +13,7 @@ no vivan en la ciudad de San Marcos.
 ciudades de ese estado.
 2. Mostrar el identificador y el precio total de las ordenes pendientes de pago.
 3. Mostrar la cantidad de categorías que tiene el departamento Golf.
-4. Cantidad de fraudes cometidos por persona.
+4. Cantidad de fraudes cometidos (estado = "SUSPECTED FRAUD") por persona.
 5. Nombre y apellido de los primeros 15 clientes que han gastado más dinero.
 
 ## Avanzado
