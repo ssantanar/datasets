@@ -12,3 +12,4 @@ Descripción de los datasets:
 6. `Boletas conveniencia`: conjunto de boletas emitidas por una tienda de conveniencia en formato matricial. Cada observacion del dataset indica si en la boleta `i` se compra el producto `j`.
 7. `Advertising`: registro de las ventas de una compañía durante 200 semanas, además del gasto en publicidad en diferentes canales.
 8. `Delivery`: conjunto de datos sobre un problema de delivery de productos, donde se tienen clientes, productos, categorías, órdenes, empleados y emplesas de logística.
+9. `Fuga`: datos sobre fuga de clientes en una institución bancaria. Cuenta con datos de test sin etiqueta.
