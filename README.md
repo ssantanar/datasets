@@ -13,3 +13,4 @@ Descripción de los datasets:
 7. `Advertising`: registro de las ventas de una compañía durante 200 semanas, además del gasto en publicidad en diferentes canales.
 8. `Delivery`: conjunto de datos sobre un problema de delivery de productos, donde se tienen clientes, productos, categorías, órdenes, empleados y emplesas de logística.
 9. `Fuga`: datos sobre fuga de clientes en una institución bancaria. Cuenta con datos de test sin etiqueta.
+10. `Online retail`: transacciones de un retail de productos de regalos. 
