@@ -16,3 +16,5 @@ Descripción de los datasets:
 10. `Online retail`: transacciones de un retail de productos de regalos. 
 11. `Housing California`: datos del censo en California de 1990 sobre precios de inmuebles.
 12. `Weather Australia`: datos sobre precipitaciones en diferentes zonas de Australia en casi 10 años de observaciones.
+13. `Aportes 2022`: aportes a campaña de plebiscito constitucional 2022 (SERVEL).
+ 
