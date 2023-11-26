@@ -11,9 +11,9 @@ no vivan en la ciudad de San Marcos.
 ## Medio
 1. Contar la cantidad de ciudades que tiene cada estado. Mostrar el estado y la cantidad de
 ciudades de ese estado.
-2. Mostrar el identificador y el precio total de las ordenes pendientes de pago.
+2. Mostrar el identificador y el precio total de las ordenes pendientes de pago ("PENDING_PAYMENT").
 3. Mostrar la cantidad de categorías que tiene el departamento Golf.
-4. Cantidad de fraudes cometidos (estado = "SUSPECTED FRAUD") por persona.
+4. Cantidad de fraudes cometidos (estado = "SUSPECTED_FRAUD") por persona.
 5. Nombre y apellido de los primeros 15 clientes que han gastado más dinero.
 
 ## Avanzado
